@@ -1,3 +1,8 @@
+
+;;; PascalJS - a pascal to scheme translator
+
+;;; Author: Rick Miskowski - www.richardmiskowski.com
+
 (define pascal-errors? #f)
 
 (define pascal-error-list '())
